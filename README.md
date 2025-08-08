@@ -35,19 +35,14 @@ It integrates advanced analytics techniques — from **EDA** to **predictive mod
 
 ## 📸 Preview
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d40b3333-46b8-4c8d-ab05-3db4f823c991" width="25%">
-</p>
+<img src="https://github.com/user-attachments/assets/d40b3333-46b8-4c8d-ab05-3db4f823c991" width="750"/>  
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/618b2216-9abd-413e-bd38-332059cfb211" width="25%">
-</p>
+<img src="https://github.com/user-attachments/assets/618b2216-9abd-413e-bd38-332059cfb211" width="600"/>  
 
 ---
 
 ## 👨‍💻 Author
 
-**Maxim Prokopenko**  
-Data Analyst — [LinkedIn](https://www.linkedin.com/in/maksim-prokopenko/)
+**Maxim Prokopenko** | Data Analyst |  [LinkedIn](https://www.linkedin.com/in/maksim-prokopenko/)
 
 ---
