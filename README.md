@@ -1,71 +1,53 @@
-🛒 Customer Churn Analysis in E-Commerce
+# 📦 Customer Churn Analysis in E-commerce
 
-Welcome to the E-Commerce Customer Churn Analysis project — an end-to-end data story exploring, cleaning, modeling, and visualizing customer churn patterns in an e-commerce business.
-This project combines data engineering, SQL, machine learning, and dashboard design using Tableau to deliver actionable insights for reducing churn.
+Welcome to the **E-commerce Customer Churn Analysis** project — an end-to-end data analytics case study aimed at understanding and predicting customer churn in an online retail environment.  
+This project combines **data cleaning, SQL, feature engineering, machine learning,** and **interactive dashboard design in Tableau** to deliver actionable business insights.
 
-⸻
+---
 
-📊 Project Overview
+## 📊 Project Overview
 
-The goal of this project is to understand why customers leave and to identify patterns that can help businesses retain them.
-We analyze customer behavior using RFM segmentation, tenure analysis, and satisfaction trends, and build a predictive machine learning model to forecast churn.
-The final results are presented in an interactive Tableau dashboard for business decision-makers.
+This project analyzes an e-commerce customer dataset to uncover key churn drivers, identify at-risk customers, and propose retention strategies.  
+It integrates advanced analytics techniques — from **EDA** to **predictive modeling** — to support data-driven decision-making.
 
+---
 
-📁 Repository Structure
-├── 1_data/               # Raw dataset & processed dataset
-├── 2_cleaning/           # Data cleaning & preprocessing scripts (Python)
-├── 3_sql/                # PostgreSQL scripts (table creation, queries)
-├── 4_modeling/           # Machine Learning models & evaluation
-├── 5_dashboard/          # Tableau workbook (.twbx) & dashboard resources
-├── 6_presentation/       # Final presentation (PPTX / PDF)
-└── README.md             # This file
+## 🚀 How to Use the Project
+
+1. **Explore the Jupyter Notebooks**  
+   Go to the `notebooks/` folder to review the data preparation, EDA, feature engineering, and modeling steps.
 
 
+3. **Open the Tableau Dashboard** *[Tableau Dashboard](https://public.tableau.com/views/Churnanalis/Main_dash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*  
+   The interactive dashboard allows you to explore churn trends, segment customers, and simulate retention actions.
 
-🌍 Data Sources
-	•	E-Commerce Customer Dataset (Open Data)
-	•	All personally identifiable information (PII) was removed.
-	•	RFM features and Tenure Groups were engineered from transaction history.
+---
 
-⸻
+## 🎯 Key Features
 
-🎯 Key Features
-	•	Clean, structured data pipeline: from raw CSV to PostgreSQL & Tableau.
-	•	Feature engineering: RFM Score, Tenure Group, and churn labels.
-	•	Machine learning models: Logistic Regression, Decision Tree, Random Forest.
-	•	Model comparison: Accuracy, Recall, F1-Score, ROC, Precision-Recall curves.
-	•	Interactive Tableau Dashboard: customer segmentation, churn drivers, and recommendations.
-	•	Actionable business insights: who is likely to churn, why, and what to do.
+- Clean and structured **data pipeline** — from raw CSV to ready-to-use datasets  
+- **EDA** with churn distribution, correlations, and behavioral patterns  
+- **Feature Engineering** — creation of Tenure Groups and RFM Scores for better segmentation  
+- **Predictive Modeling** — Logistic Regression, Decision Tree, and Random Forest with performance comparison  
+- **Interactive Tableau Dashboard** — visual storytelling for executives and stakeholders  
 
-⸻
+---
 
-📸 Preview
+## 📸 Preview
 
-Tableau Dashboard Examples:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d40b3333-46b8-4c8d-ab05-3db4f823c991" width="25%">
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/618b2216-9abd-413e-bd38-332059cfb211" width="25%">
+</p>
 
+---
 
-⸻
+## 👨‍💻 Author
 
-👨‍💻 Author
+**Maxim Prokopenko**  
+Data Analyst — [LinkedIn](https://www.linkedin.com/in/maksim-prokopenko/)
 
-Maxim Prokopenko
-Data Analyst | Passionate about analytics, machine learning, and turning data into business value.
-LinkedIn | GitHub
-
-⸻
-
-📄 License
-
-This project is for educational and portfolio purposes only.
-Do not reuse or redistribute without explicit permission.
-
-⸻
-
-🙌 Acknowledgements
-
-Thanks to:
-	•	The Developers Institute for the training and guidance.
-	•	Open-source community for tools like Pandas, Scikit-learn, and Tableau Public.
-	•	All contributors of open datasets used in this project.
+---
