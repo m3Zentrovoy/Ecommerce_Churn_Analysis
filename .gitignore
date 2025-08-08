@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Data temp files
+data/*.tmp
+data/*.log
+
+# Tableau
+*.twb~
+*.twbr
+*.hyper
+
+# System / misc
+*.swp
+*.bak
